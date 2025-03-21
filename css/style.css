@@ -101,7 +101,7 @@ main{
 }
 /* concept */
 #concept{
-  background-image: url('/Users/andodaiki/Desktop/Naturelle Éclat/img/大理石.jpg');
+  background-image: url('img/大理石.jpg');
   padding: 48px 0;
   margin-top: 100vh;
 }
@@ -155,7 +155,7 @@ main{
 
 /* product */
 #product, #topics{
-  background-image: url('/Users/andodaiki/Desktop/Naturelle Éclat/img/大理石.jpg');
+  background-image: url('img/大理石.jpg');
   background-size: cover;
   background-repeat: repeat;
 }
